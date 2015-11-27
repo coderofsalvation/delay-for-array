@@ -14,18 +14,18 @@ Loop over array but with time delay
 
 ## Example
 
-delayarr = require('delay-for-array')
+    delayarr = require('delay-for-array')
 
-arr = ["one","two","three"];
+    arr = ["one","two","three"];
 
-delayarr.each( arr, { time:1000 }, function(el,k){
+    delayarr.each( arr, { time:1000 }, function(el,k){
 
-  console.log( new Date()+"element received: "+k+" -> "+el );
+      console.log( new Date()+"element received: "+k+" -> "+el );
 
-},function(num){
+    },function(num){
 
-  console.log("finished processing "+num+" items");
+      console.log("finished processing "+num+" items");
 
-});
+    });
 
 
