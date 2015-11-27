@@ -1,6 +1,6 @@
 {
   "name": "delay-for-array",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "description": "Loop over array but with a time delay",
   "main": "index.js",
   "readmeFilename": "README.md",
@@ -12,5 +12,6 @@
   },
   "keywords": ["array","loop","iterate","delay","time","sleep","for","foreach","each","wait"],
   "author": "",
+  "repository":"https://github.com/coderofsalvation/delay-for-array",
   "license": "ISC"
 }
