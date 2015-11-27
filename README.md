@@ -1,6 +1,6 @@
 Loop over array but with time delay 
 
-<img alt='' src='https://api.travis-ci.org/coderofsalvation/delay-for-array.git'/>
+<img alt='' src='https://travis-ci.org/coderofsalvation/delay-for-array.svg'/>
 
 ## Usage
 
