@@ -1,3 +1,7 @@
+# SUPERSEEDED BY iterate-with-delay
+
+> USE THIS MODULE INSTEAD: https://www.npmjs.com/package/iterate-with-delay
+
 Loop over array but with time delay 
 
 <img alt='' src='https://travis-ci.org/coderofsalvation/delay-for-array.svg'/>

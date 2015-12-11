@@ -1,6 +1,6 @@
 {
   "name": "delay-for-array",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "description": "Loop over array but with a time delay",
   "main": "index.js",
   "readmeFilename": "README.md",
